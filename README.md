@@ -1,1 +1,3 @@
-# Number-Guessing-game
+# NUMBER GUESSING GAME
+## Overview
+In a number guessing game implemented in Python, the computer starts by randomly selecting a number within a predefined range, such as 1 to 100. The player is then prompted to guess the number. The game provides feedback on each guess, indicating whether the guess is too low or too high compared to the target number. The player continues guessing until they correctly identify the number, at which point the game congratulates them and ends. Optionally, the game can offer the player a chance to play again. This interaction loop ensures that the player receives guidance and maintains engagement throughout the game.
